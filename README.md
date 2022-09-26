@@ -27,3 +27,9 @@ We will collect the experience of Founders & their Team to guide other startups,
 8. What to look for when making a work contract with other vendors in overseas to outsource some of your startup product development work? 
 
 9. If you develop your entire product as opensource and have contributors from overseas, does that product pass compliance audits like soc2, nist, iso, hippa, pci, ccpa, gdpr, etc.? And, does Federal project teams use such opensource projects? Any reference examples? 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# After doing lot of research and talking to Startup Founders & CPAs & few Attorneys & to some agencies, we found good resources which would help with most of the common tasks mentioned above
+- **UpWork.com	Fiverr.com	-> hire freelancers across the globe.**
+- **Remote.com	Revelo.com	Deel.com -> hire full-time or contract-based employees across the globe.**
